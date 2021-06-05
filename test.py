@@ -1,0 +1,1 @@
+print("sang đẹp trai")
